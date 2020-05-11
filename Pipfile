@@ -15,6 +15,7 @@ flask-migrate = "*"
 pyjwt = "*"
 flask-cors = "*"
 waitress = "*"
+wfastcgi = "*"
 
 [requires]
 python_version = "3.8"
