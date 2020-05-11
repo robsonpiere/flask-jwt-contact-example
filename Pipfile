@@ -12,6 +12,9 @@ pylint-flask-sqlalchemy = "*"
 flask-restful = "==0.3.7"
 flask-sqlalchemy = "==2.4.1"
 flask-migrate = "*"
+pyjwt = "*"
+flask-cors = "*"
+waitress = "*"
 
 [requires]
 python_version = "3.8"
